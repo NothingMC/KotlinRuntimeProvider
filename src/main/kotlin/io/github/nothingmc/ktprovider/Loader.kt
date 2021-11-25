@@ -1,4 +1,4 @@
-package io.github.nothingmc.exampleplugin
+package io.github.nothingmc.ktprovider
 
 import cn.nukkit.plugin.PluginBase
 

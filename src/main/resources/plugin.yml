@@ -1,5 +1,5 @@
-name: ExamplePlugin
+name: KotlinRuntimeProvider
 author: NothingMC
-main: io.github.nothingmc.exampleplugin.ExamplePlugin
+main: io.github.nothingmc.ktprovider.Loader
 version: 1.0.0
 api: 1.0.13 # Cloudburst Nukkit version, do not change this!
